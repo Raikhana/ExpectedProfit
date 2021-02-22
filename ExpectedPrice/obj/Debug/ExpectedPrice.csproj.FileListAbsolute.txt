@@ -1,0 +1,10 @@
+C:\Users\Raikhana\source\repos\ExpectedPrice\ExpectedPrice\bin\Debug\ExpectedPrice.exe.config
+C:\Users\Raikhana\source\repos\ExpectedPrice\ExpectedPrice\bin\Debug\ExpectedPrice.exe
+C:\Users\Raikhana\source\repos\ExpectedPrice\ExpectedPrice\bin\Debug\ExpectedPrice.pdb
+C:\Users\Raikhana\source\repos\ExpectedPrice\ExpectedPrice\obj\Debug\ExpectedPrice.csprojAssemblyReference.cache
+C:\Users\Raikhana\source\repos\ExpectedPrice\ExpectedPrice\obj\Debug\ExpectedPrice.frmReturnOnInvestment.resources
+C:\Users\Raikhana\source\repos\ExpectedPrice\ExpectedPrice\obj\Debug\ExpectedPrice.Properties.Resources.resources
+C:\Users\Raikhana\source\repos\ExpectedPrice\ExpectedPrice\obj\Debug\ExpectedPrice.csproj.GenerateResource.cache
+C:\Users\Raikhana\source\repos\ExpectedPrice\ExpectedPrice\obj\Debug\ExpectedPrice.csproj.CoreCompileInputs.cache
+C:\Users\Raikhana\source\repos\ExpectedPrice\ExpectedPrice\obj\Debug\ExpectedPrice.exe
+C:\Users\Raikhana\source\repos\ExpectedPrice\ExpectedPrice\obj\Debug\ExpectedPrice.pdb
