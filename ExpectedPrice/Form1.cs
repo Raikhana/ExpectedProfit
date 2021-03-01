@@ -16,11 +16,14 @@ namespace ExpectedPrice
         {
             InitializeComponent();
         }
-
+        
         private void btnCalculate_Click(object sender, EventArgs e)
         {
-            decimal investment = Convert.ToDecimal(txtInvestment.Text);
-            decimal ROI = Convert.ToDecimal(txtInterestROI.Text);
+            decimal investment = Decimal.Parse(
+                txtInvestment.Text, 
+                System.Globalization.NumberStyles.AllowCurrencySymbol | System.Globalization.NumberStyles.Number);
+
+            decimal ROI = Decimal.Parse(new String(txtInterestROI.Text.Where(Char.IsDigit).ToArray()));
 
             decimal investmentGain = (ROI / 100) * investment + investment;
             decimal profit = investmentGain - investment;
@@ -32,7 +35,7 @@ namespace ExpectedPrice
 
             txtInvestment.Focus();
         }
-
+       
         private void btnExit_Click(object sender, EventArgs e)
         {
             this.Close();
